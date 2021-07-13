@@ -1,0 +1,6 @@
+framework module Pods_BellabeatAppTests {
+  umbrella header "Pods-BellabeatAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
